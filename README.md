@@ -1,2 +1,2 @@
 # gith
-This is a gith repository
+This is a gith repository.
